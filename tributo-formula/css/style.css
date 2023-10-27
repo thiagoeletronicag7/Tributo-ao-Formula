@@ -1,0 +1,54 @@
+html, body {
+    background-color: #7c7b7b;
+    padding: 0;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.capa {
+    padding: 0;
+    margin: 0;
+}
+
+#titulo-pagina {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 0;
+    margin: 10px;
+}
+
+p, li, figcaption, h2{
+    color: #fff;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.imagem-1 {
+    padding: 0;
+    margin: 0;
+}
+
+h4 {
+    color: #fff;
+    padding: 0;
+    margin-left: 10px;
+    margin-bottom: 0;
+}
+.icones {
+    padding: 0;
+    margin: 0;
+    width: 5%;
+}
+
+figure {
+    display: inline-block;
+}
+
+a {
+    padding: 15px;
+    margin: 0;
+}
